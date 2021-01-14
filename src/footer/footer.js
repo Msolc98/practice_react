@@ -1,12 +1,12 @@
 
 
-function footer() {
+function Footer() {
 
     return(
         <div
          style={{
             width:'100%',
-            height:'5em',
+            height:'10%',
             background:'#3C5A91',
             color:'white'}}>
             푸터입니다.
@@ -14,4 +14,4 @@ function footer() {
     );
 }
 
-export default footer;
+export default Footer;
