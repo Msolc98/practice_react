@@ -1,10 +1,10 @@
-import './App.css';
+import Footer from './footer/footer'
 
 function App() {
   return (
     <div className="App">
-      안녕
-      외없서
+      <Footer/>
+      
     </div>
   );
 }
